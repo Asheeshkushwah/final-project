@@ -27,6 +27,19 @@
     padding-top: 20px;
 }
 
+.d {
+    width: 110px;
+    position: relative;
+    left: 50%;
+    letter-spacing: 2px;
+}
+
+.e {
+
+    background-color: black !important;
+}
+
+
 
 
 
