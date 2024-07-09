@@ -31,7 +31,7 @@
     text-align: justify;
 }
 
- /* .img {
+/* .img {
     opacity: 0.2;
 }
 
@@ -89,6 +89,6 @@
     }
 
     .navbar {
-        background: #6274b2 !important;
+        background: hsl(227, 41%, 68%) !important;
     }
 }
